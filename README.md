@@ -69,10 +69,6 @@ flowchart TD
 ## Troubleshooting
 - Ensure all services (Kafka, MongoDB, Spark) are running and accessible.
 - Check that the MongoDB URI and Kafka broker addresses match your local setup.
-- If you encounter missing package errors, install them with `pip`.
-
-## License
-MIT License
 
 ## Credits
 - OpenWeatherMap for weather data API
